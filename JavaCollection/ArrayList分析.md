@@ -398,7 +398,7 @@ E elementData(int index) {
     }
 ```
 
-大总结:
+**总结**:
 1）arrayList可以存放null。
 2）arrayList本质上就是一个elementData数组。
 3）arrayList区别于数组的地方在于能够自动扩展大小，其中关键的方法就是gorw()方法。
